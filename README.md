@@ -5,4 +5,5 @@ All the commentaries were written in **PT-BR**, but I'll try to translate them t
 
 ### Usage:
 
+In Command Prompt, at the "monta.c" directory, type:
   `monta <filename>`
