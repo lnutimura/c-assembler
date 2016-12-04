@@ -1,7 +1,7 @@
 # C Assembler
 This is a simple assembler made in C from Computer Science classes in UNESP.
 
-All the commentaries were written in **PT-BR**, but I'll eventually translate them to **EN-US**.
+All the comments were written in **PT-BR**, but I'll eventually translate them to **EN-US**.
 
 ### Usage:
 
