@@ -1,5 +1,5 @@
 # C Assembler
-This is a simple assembler made in C from Computer Science classes in UNESP.
+This is a simple assembler developed in C during one of the Computer Science courses in UNESP.
 
 All the comments were written in **PT-BR**, but I'll eventually translate them to **EN-US**.
 
